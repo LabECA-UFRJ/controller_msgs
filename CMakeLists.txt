@@ -7,6 +7,7 @@ add_message_files(
   DIRECTORY msg
   FILES
   MotorSignal.msg
+  Circle.msg
 )
 
 generate_messages()
